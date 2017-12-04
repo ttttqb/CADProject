@@ -1,0 +1,14 @@
+
+*.exe
+*.ilk
+*.pdb
+*.dll
+*.obj
+*.tlog
+*.idb
+*.enc
+*.log
+*.db
+*.ipch
+.vs/CADProject1/v14/.suo
+.vs/CADProject1/v15/.suo
